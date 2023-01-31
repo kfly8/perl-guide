@@ -1,0 +1,10 @@
+[book]
+authors = ["kfly8"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "Perlドキュメントテスト"
+
+[output.html.playground]
+editable = true
+line-numbers = true
