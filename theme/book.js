@@ -85,7 +85,7 @@ function playground_text(playground, hidden = true) {
         let text = playground_text(code_block);
 
         // TODO: 利用できるperlのバージョンを変更できるようにしたい
-        const compiler = 'perl-5.34.0'
+        const compiler = 'perl-5.36.0'
 
         const params = {
             code: text,
